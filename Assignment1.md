@@ -35,4 +35,5 @@ Outside of the Student class, implement the following steps:
         - Use a Loop to iterate through the all_students list.
         - Inside the loop, use a Conditional Statement to check if a student's get_average_grade() is above 80.
         - If the average is above 80, print a formatted statement using String formatting (e.g., f-strings) saying: "[Student Name] has an excellent average of [Average Grade] and the following honor courses: [List of Honor Courses]".
-        - If the average is 80 or below, call the add_course_and_grade method for that student, giving them a new course "Study Skills" with a grade of 100, and then print a statement confirming the addition.
+        - If the average is 80 or below, call the add_course_and_grade method for that student, giving them a new course "Study Skills" with a grade of 100, and then print a statement confirming the addition.[muhammad_tayyab_sial_assignment_1.py](https://github.com/user-attachments/files/24019360/muhammad_tayyab_sial_assignment_1.py)
+[muhammad_tayyab_sial_assignment_1.py](https://github.com/user-attachments/files/24019358/muhammad_tayyab_sial_assignment_1.py)
